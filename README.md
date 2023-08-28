@@ -38,3 +38,4 @@ Different problems may have different loss functions. For instance:
 Regression tasks might use Mean Squared Error (MSE).
 Classification tasks might use Cross-Entropy Loss.
 The process of training a neural network involves feeding data through the network, calculating the loss, and then updating the weights of the network to try and reduce this loss. This cycle repeats over multiple epochs.
+# handwriting-detection
