@@ -17,6 +17,8 @@ Will create a model `mnist_model.pth`
 
 Expects images to be 28x28 pixels, white on black background
 
+Note that test_image_8_2.png and test_image_9.png are not recognized correctly because they're extracted from real life paper handwriting and have some noise in them.
+
 ## Explanation
 
 Epoch:
